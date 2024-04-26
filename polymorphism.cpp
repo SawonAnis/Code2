@@ -23,9 +23,9 @@ public:
     int main(void)
     {
         printData pd;
-        pd.print(5);
-        pd.print(500.263);
-        pd.print("Hello C++");
-        pd.print(5, 10);
+        pd.print(10);
+        pd.print(100.278);
+        pd.print("Hello Sawon");
+        pd.print(5, 25);
         return 0;
     }
